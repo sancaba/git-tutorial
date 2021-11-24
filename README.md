@@ -1,8 +1,12 @@
-# Git
+﻿# Git
 
 ## ¿Qué es git?
 
+Git es un software para control de versiones.
+
 ## ¿Qué es github?
+
+Github es un servicio web que aloja código y trabaja con git.
 
 ## git init
 
