@@ -30,8 +30,6 @@ Git commit guarda los cambios al repositorio.
 
 ### good commits messages
 
-
-
 ## git log
 
 Git log muestra los commit logs.
@@ -53,6 +51,8 @@ Git pull toma e integra con otro repositorio o branch local.
 Git merge une dos o mas historias juntas
 
 ## .gitignore
+
+Git ignore establece que archivos o carpetas ignorar.
 
 ## Tutorial interactivo
 
